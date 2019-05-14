@@ -16,6 +16,10 @@ public class MainActivity extends AppCompatActivity {
 
 
         Toast.makeText(this, "tercer mensaje de prueba ", Toast.LENGTH_SHORT).show();
+
+        Toast.makeText(this, "cuarto mensaje de pruebass", Toast.LENGTH_SHORT).show();
+
+        Toast.makeText(this, "quinto mensaje pruebas", Toast.LENGTH_SHORT).show();
     }
 
     private void procedimientoTest(){
